@@ -1,0 +1,13 @@
+{"peliculas": [
+    {
+        "anioLanzamiento": 2014,
+        "director": "Wes Ball",
+        "titulo": "El corredor del laberinto"
+    },
+    {
+        "anioLanzamiento": 2014,
+        "director": "Neil Burger",
+        "genero": "Ciencia ficción",
+        "titulo": "Divergente"
+    }
+]}

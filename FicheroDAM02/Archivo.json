@@ -1,0 +1,13 @@
+{
+    "Nombre": "Copa de Europa 24/25",
+    "participantes": [
+        {
+            "nombre": "Jude Bellingham",
+            "edad": 25
+        },
+        {
+            "nombre": "Kyllian Mbappé",
+            "edad": 25
+        }
+    ]
+}

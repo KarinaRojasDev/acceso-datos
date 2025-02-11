@@ -1,0 +1,13 @@
+{"catalogo": [
+    {
+        "marca": "Samsung",
+        "sistemaOperativo": "Android",
+        "modelo": "Galaxy S21"
+    },
+    {
+        "marca": "Apple",
+        "sistemaOperativo": "macOS",
+        "tamanoPantalla": 13.3,
+        "modelo": "MacBook Air"
+    }
+]}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+ <titulo>Tarta de manzana</titulo>
+ <dificultad>Media</dificultad>
+ <tiempo>1 hora</tiempo>
+ <porciones>8</porciones>
+   <ingredientes>
+     <ingrediente>
+       <nombre>Manzanas</nombre>
+       <cantidad>4</cantidad>
+       <unidad>piezas</unidad>
+     </ingrediente>
+     <ingrediente>
+       <nombre>Azucar</nombre>
+       <cantidad>100</cantidad>
+       <unidad>gramos</unidad>
+     </ingrediente>
+     <ingrediente>
+       <nombre>Harina</nombre>
+       <cantidad>150</cantidad>
+       <unidad>gramos</unidad>
+     </ingrediente>
+   </ingredientes>
+</recetas>

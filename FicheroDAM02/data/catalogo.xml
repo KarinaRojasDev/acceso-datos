@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalogo >
+
+  <producto id="001">
+
+    <marca>Samsung</marca>
+
+    <modelo>Galaxy S21</modelo>
+
+    <sistemaOperativo>Android</sistemaOperativo>
+
+  </producto>
+
+  <producto id="002">
+
+    <marca>Apple</marca>
+
+    <modelo>MacBook Air</modelo>
+
+    <sistemaOperativo>macOS</sistemaOperativo>
+
+    <tamanoPantalla>13.3</tamanoPantalla>
+
+  </producto>
+
+</catalogo>

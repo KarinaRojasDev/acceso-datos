@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<uax lugar="Brunete" pais="España">
+    <modulo ciclo="DAM">
+        <alumno>Luis</alumno>
+        <alumno>Jose</alumno>
+    </modulo>
+    <modulo ciclo="DAW">
+        <alumno>Maria</alumno>
+        <alumno>Pedro</alumno>
+    </modulo>
+</uax>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<peliculas>
+    <pelicula id="a1">
+        <titulo>El corredor del laberinto</titulo>
+        <anioLanzamiento>2014</anioLanzamiento>
+        <director>Wes Ball</director>
+        <genero>Ciencia ficción</genero>
+    </pelicula>
+    <pelicula id="a2">
+        <titulo>Divergente</titulo>
+        <anioLanzamiento>2014</anioLanzamiento>
+        <director>Neil Burger</director>
+        <genero>Ciencia ficción</genero>
+    </pelicula>
+    <pelicula id="a3">
+        <titulo>Los Juegos Del Hambre</titulo>
+        <anioLanzamiento>2012</anioLanzamiento>
+        <director>Gary Ross</director>
+        <genero>Acción</genero>
+    </pelicula>
+    <pelicula id="a4">
+        <titulo>Prueba de Fuego</titulo>
+        <anioLanzamiento>2015</anioLanzamiento>
+        <director>Wes Ball</director>
+        <genero>Acción</genero>
+    </pelicula>
+</peliculas>

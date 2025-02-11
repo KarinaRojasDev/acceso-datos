@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Academia Id="Academia">
+    <Alumno nombre="Pepe Pérez">
+        <Asignaturas_matriculadas>Lengua,Física,Matemáticas</Asignaturas_matriculadas>
+    </Alumno>
+    <Alumno nombre="Maria Garcia">
+        <Asignaturas_matriculadas>Griego,Lenguas muertas</Asignaturas_matriculadas>
+    </Alumno>
+</Academia>

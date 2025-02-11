@@ -1,0 +1,26 @@
+{
+    "heroes": [
+        {
+            "img": " https://example.com/ironman.jpg",
+            "size": 180,
+            "name": "Tony Stark",
+            "link": " https://www.marvel.com/characters/iron-man",
+            "hero": "Iron Man"
+        },
+        {
+            "img": "https://example.com/spiderman.jpg",
+            "size": 175,
+            "name": " Peter Parker",
+            "link": "https://www.marvel.com/characters/spider-man",
+            "hero": "Spider-Man"
+        },
+        {
+            "img": "https://example.com/captainamerica.jpg",
+            "size": 185,
+            "name": "Steve Rogers",
+            "link": " https://www.marvel.com/characters/captain-america",
+            "hero": " Captain America"
+        }
+    ],
+    "hero": "Heroes"
+}

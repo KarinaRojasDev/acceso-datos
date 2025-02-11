@@ -1,0 +1,17 @@
+{"curso": [
+    {
+        "horas": 40,
+        "nombre": "Mate",
+        "nota": 9.5
+    },
+    {
+        "horas": 30,
+        "nombre": "Historia",
+        "nota": 8.5
+    },
+    {
+        "horas": 25,
+        "nombre": "Biología",
+        "nota": 9.5
+    }
+]}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<propiedades>
+    <propiedad1 id="al" lote="1">
+        <tipoPropiedad1>Casa</tipoPropiedad1>
+        <ubicacion>
+            <ciudad1>Ney York</ciudad1>
+            <codigoPostal1>10001</codigoPostal1>
+            <precio1>600000</precio1>
+            <metrosCuadrados>250</metrosCuadrados>
+        </ubicacion>
+    </propiedad1>
+    <propiedad2 id="a2">
+        <tipoPropiedad2>Departamento</tipoPropiedad2>
+        <ubicacion>
+            <ciudad2>Los Angeles</ciudad2>
+            <codigoPostal2>90001</codigoPostal2>
+            <precio2>350000</precio2>
+            <metrosCuadrados2>150</metrosCuadrados2>
+        </ubicacion>
+    </propiedad2>
+</propiedades>

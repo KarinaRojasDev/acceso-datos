@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<torneo>
+    <equipo>
+        <nombre>Atletic</nombre>
+    </equipo>
+    <partido>
+        <equipo1>Atletic</equipo1>
+        <equipo2>Real Madrid</equipo2>
+        <resultado>1 - 0</resultado>
+    </partido>
+</torneo>

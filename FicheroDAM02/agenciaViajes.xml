@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<agenciaViajes>
+    <reservas>
+        <reserva id="a1">
+            <nombreCliente>Juan Carlos</nombreCliente>
+            <destino>Francia</destino>
+            <fechaSalida>2024-06-10</fechaSalida>
+            <fechaRegreso>2024-06-20</fechaRegreso>
+        </reserva>
+        <reserva id="a2">
+            <nombreCliente>Sofia Nahir</nombreCliente>
+            <destino>Argentina</destino>
+            <fechaSalida>2024-07-10</fechaSalida>
+            <fechaRegreso>2024-07-20</fechaRegreso>
+        </reserva>
+        <reserva id="a3">
+            <nombreCliente>Karina Paola</nombreCliente>
+            <destino>Madrid</destino>
+            <fechaSalida>2024-07-10</fechaSalida>
+            <fechaRegreso>2024-07-20</fechaRegreso>
+        </reserva>
+        <reserva id="a4">
+            <nombreCliente>Andrea Jessica</nombreCliente>
+            <destino>España</destino>
+            <fechaSalida>2024-04-10</fechaSalida>
+            <fechaRegreso>2024-04-20</fechaRegreso>
+        </reserva>
+        <reserva id="a5">
+            <nombreCliente>Carolina Butron</nombreCliente>
+            <destino>Barcelona</destino>
+            <fechaSalida>2024-06-10</fechaSalida>
+            <fechaRegreso>2024-06-20</fechaRegreso>
+        </reserva>
+        <reserva id="a6">
+            <nombreCliente>Mireya Hernandez</nombreCliente>
+            <destino>Mallorca</destino>
+            <fechaSalida>2024-05-10</fechaSalida>
+            <fechaRegreso>2024-05-20</fechaRegreso>
+        </reserva>
+    </reservas>
+</agenciaViajes>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<agencia>
+   <propiedades>
+     <propiedad id="a1">
+       <tipoPropiedad>Casa</tipoPropiedad>
+       <ubicacion>
+         <ciudad>New York</ciudad>
+         <codigoPostal>10001</codigoPostal>
+       </ubicacion>
+       <precio>600000</precio>
+       <metrosCuadrados>250</metrosCuadrados>
+       <numeroHabitaciones>3</numeroHabitaciones>
+       <numeroBanos>2</numeroBanos>
+     </propiedad>
+     <propiedad id="a2">
+       <tipoPropiedad>Departamento</tipoPropiedad>
+       <ubicacion>
+         <ciudad>Los Angeles</ciudad>
+         <codigoPostal>90001</codigoPostal>
+       </ubicacion>
+       <precio>350000</precio>
+       <metrosCuadrados>150</metrosCuadrados>
+       <numeroHabitaciones>2</numeroHabitaciones>
+       <numeroBanos>1</numeroBanos>
+     </propiedad>
+     <propiedad id="a3">
+       <tipoPropiedad>Oficina</tipoPropiedad>
+       <ubicacion>
+         <ciudad>Chicago</ciudad>
+         <codigoPostal>60601</codigoPostal>
+       </ubicacion>
+       <precio>900000</precio>
+       <metrosCuadrados>400</metrosCuadrados>
+       <numeroHabitaciones>0</numeroHabitaciones>
+       <numeroBanos>2</numeroBanos>
+     </propiedad>
+     <propiedad id="a4">
+       <tipoPropiedad>Casa</tipoPropiedad>
+       <ubicacion>
+         <ciudad>Miami</ciudad>
+         <codigoPostal>33101</codigoPostal>
+       </ubicacion>
+       <precio>550000</precio>
+       <metrosCuadrados>220</metrosCuadrados>
+       <numeroHabitaciones>4</numeroHabitaciones>
+       <numeroBanos>3</numeroBanos>
+     </propiedad>
+     <propiedad id="a5">
+       <tipoPropiedad>Departamento</tipoPropiedad>
+       <ubicacion>
+         <ciudad>San Francisco</ciudad>
+         <codigoPostal>94101</codigoPostal>
+       </ubicacion>
+       <precio>400000</precio>
+       <metrosCuadrados>180</metrosCuadrados>
+       <numeroHabitaciones>3</numeroHabitaciones>
+       <numeroBanos>2</numeroBanos>
+     </propiedad>
+   </propiedades>
+</agencia>

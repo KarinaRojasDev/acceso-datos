@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<casa_rurales>
+    <casa id="a1">
+        <direccion>Avenida universidad</direccion>
+        <descripcion>Casa perfecta de la UAX</descripcion>
+        <estado>Disponible</estado>
+        <tamanio>100m2</tamanio>
+    </casa>
+    <casa id="a2">
+        <direccion>Avenida universidad2</direccion>
+        <descripcion>Casa perfecta de la UAX2</descripcion>
+        <estado>Disponible2</estado>
+        <tamanio>100m2.2</tamanio>
+    </casa>
+</casa_rurales>

@@ -1,0 +1,10 @@
+{"bebidas": [
+    {
+        "codigo": "L45",
+        "precio": 6
+    },
+    {
+        "precio": 8,
+        "nombre": "Leche"
+    }
+]}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<noticias xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+   <channel>
+     <title>Mercados // expansion</title>
+     <copyright>(c) 2015, Unidad Editorial, S.A</copyright>
+     <item>
+       <title> El ibex choca.....</title>
+       <dc:creator> Alejandro Sánchez </dc:creator>
+       <categoria> Crónica de Bolsa </categoria>
+       <media:title type="html"> CRÓNICA DE BOLSA</media:title>
+       <pubDate> Thu, 17 Oct 2024 07:48:00 +0200 </pubDate>
+     </item>
+     <item>
+       <title> La deuda evita el escenario más adverso para la Bolsa </title>
+       <dc:creator> Alejandro Sánchez </dc:creator>
+       <categoria> Renta Fija </categoria>
+       <media:title type="html"> MERCADOS</media:title>
+       <pubDate> Mon, 18 Nov 2024 00:11:09 +0100 </pubDate>
+     </item>
+     <item>
+       <title> ¿Cuándo tendremos figura de vuelta al alza en Colonial? </title>
+       <dc:creator> JOSÉ MARÍA RODRÍGUEZ </dc:creator>
+       <categoria> Mercados  </categoria>
+       <media:title type="html"> MERCADOS </media:title>
+       <pubDate> Mon, 18 Nov 2024 13:42:03 +0100 </pubDate>
+     </item>
+   </channel>
+</noticias>

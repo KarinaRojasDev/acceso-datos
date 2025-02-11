@@ -1,0 +1,12 @@
+{"curso": [
+    {
+        "horas": 12,
+        "nombre": "modulo1",
+        "nota": 8.5
+    },
+    {
+        "horas": 17,
+        "nombre": "modulo2",
+        "nota": 9
+    }
+]}
